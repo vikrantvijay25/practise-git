@@ -1,2 +1,0 @@
-hello.
-Add staging changes.
